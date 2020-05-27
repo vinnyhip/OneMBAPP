@@ -3,6 +3,7 @@ Android min size app
 
 Language: Kotlin
 Release Size: 308 KB
+Installed Size: 532KB
 Debug Size: 1282 KB
 
 Strategy
